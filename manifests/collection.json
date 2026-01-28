@@ -1,0 +1,13 @@
+{
+  "id" : "https://toranjfard.github.io/t/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in toranjfard/t project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://toranjfard.github.io/t/manifests/manifest1.json",
+    "label" : "TMDRA project"
+  } ]
+}
