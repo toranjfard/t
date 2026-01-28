@@ -1,0 +1,283 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://toranjfard.github.io/t/manifests/manifest1.json",
+  "@type" : "sc:Manifest",
+  "label" : "TMDRA project",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : " pictures for TMDRA project",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "toranj",
+  "sequences" : [ {
+    "@id" : "http://6b239bea-470f-469b-b08e-f77dd654fab9",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://0ff8fce4-63c3-4c6b-ab14-50e86315d6e3",
+      "@type" : "sc:Canvas",
+      "label" : "Sandal",
+      "height" : "",
+      "width" : "",
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://151735a8-c278-4321-a6f9-b15f8e070a18",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://toranjfard.github.io/TMDRA-Toranj/images/sandals/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://toranjfard.github.io/TMDRA-Toranj/images/sandals",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 518,
+          "width" : 466
+        },
+        "on" : "http://0ff8fce4-63c3-4c6b-ab14-50e86315d6e3"
+      } ],
+      "related" : "Toranj"
+    }, {
+      "@id" : "http://cb17810f-7640-4ad5-9d42-66f51da06080",
+      "@type" : "sc:Canvas",
+      "label" : "Dress",
+      "height" : "",
+      "width" : "",
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3867f2ea-239f-44df-81a7-e93c17793b06",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://toranjfard.github.io/TMDRA-Toranj/images/Dress1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://toranjfard.github.io/TMDRA-Toranj/images/Dress1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 517,
+          "width" : 471
+        },
+        "on" : "http://cb17810f-7640-4ad5-9d42-66f51da06080"
+      } ],
+      "related" : "Toranj"
+    }, {
+      "@id" : "http://be29c785-c0ba-4286-bd5d-e8e2f979f79c",
+      "@type" : "sc:Canvas",
+      "label" : "Shirt",
+      "height" : 688,
+      "width" : 920,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://8f9d8028-e3f1-4874-a3b4-ddf36242aa47",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://toranjfard.github.io/TMDRA-Toranj/images/Shirt/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://toranjfard.github.io/TMDRA-Toranj/images/Shirt",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 688,
+          "width" : 920
+        },
+        "on" : "http://be29c785-c0ba-4286-bd5d-e8e2f979f79c"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://90617687-edbc-4aaf-9a8f-bd349b955cc7",
+      "@type" : "sc:Canvas",
+      "label" : "Bag",
+      "height" : 845,
+      "width" : 1501,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://28fddc8c-b4c3-4da2-9f9b-fbd0f89967c2",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://toranjfard.github.io/TMDRA-Toranj/images/bag/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://toranjfard.github.io/TMDRA-Toranj/images/bag",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 845,
+          "width" : 1501
+        },
+        "on" : "http://90617687-edbc-4aaf-9a8f-bd349b955cc7"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://a9da4e7d-e5c1-4366-b404-b9d047308c7c",
+      "@type" : "sc:Canvas",
+      "label" : "Trousers",
+      "height" : "",
+      "width" : "",
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://eab8a166-8c1f-4a96-aaff-49837d66b6af",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://toranjfard.github.io/TMDRA-Toranj/images/Trousers/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://toranjfard.github.io/TMDRA-Toranj/images/Trousers",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 532,
+          "width" : 478
+        },
+        "on" : "http://a9da4e7d-e5c1-4366-b404-b9d047308c7c"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://dd6f7f57-61af-4a3e-b4a8-d21324ee43c8",
+      "@type" : "sc:Canvas",
+      "label" : "Sneaker",
+      "height" : 625,
+      "width" : 1363,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3d23c009-e9f2-4e21-8226-e73e4fdb003d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://toranjfard.github.io/TMDRA-Toranj/images/sneaker/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://toranjfard.github.io/TMDRA-Toranj/images/sneaker",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 625,
+          "width" : 1363
+        },
+        "on" : "http://dd6f7f57-61af-4a3e-b4a8-d21324ee43c8"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://cb29cfb1-f7c9-4304-90f5-66ebdc544f74",
+      "@type" : "sc:Canvas",
+      "label" : "top-tshirt",
+      "height" : 786,
+      "width" : 847,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://192788b8-7b65-40ef-a8e1-db83cba2adaf",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://toranjfard.github.io/TMDRA-Toranj/images/Top-Tshirt/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://toranjfard.github.io/TMDRA-Toranj/images/Top-Tshirt",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 786,
+          "width" : 847
+        },
+        "on" : "http://cb29cfb1-f7c9-4304-90f5-66ebdc544f74"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://4694fc50-b1c1-40c7-8a2f-ae681e72e56f",
+      "@type" : "sc:Canvas",
+      "label" : "Ankle-boot",
+      "height" : "224",
+      "width" : "224",
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://78ad1808-1fc8-4bb0-9985-05e9887b0561",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://toranjfard.github.io/TMDRA-Toranj/images/Ankle-boot/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://toranjfard.github.io/TMDRA-Toranj/images/Ankle-boot",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 866,
+          "width" : 607
+        },
+        "on" : "http://4694fc50-b1c1-40c7-8a2f-ae681e72e56f"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://cd5b5d0d-efc8-4ab5-9a13-4366ff00ecb7",
+      "@type" : "sc:Canvas",
+      "label" : "coat",
+      "height" : "224",
+      "width" : "224",
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://215df680-5b06-4552-a977-874cca1c5de6",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://toranjfard.github.io/TMDRA-Toranj/images/coat/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://toranjfard.github.io/TMDRA-Toranj/images/coat",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 510,
+          "width" : 458
+        },
+        "on" : "http://cd5b5d0d-efc8-4ab5-9a13-4366ff00ecb7"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://01d298c1-8ea0-4b0d-9a8c-723fbe759a4a",
+      "@type" : "sc:Canvas",
+      "label" : "trousers1",
+      "height" : 403,
+      "width" : 692,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://d00fdc8e-9d84-4b99-8fbd-a20ea8e45718",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://toranjfard.github.io/TMDRA-Toranj/images/Trousers1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://toranjfard.github.io/TMDRA-Toranj/images/Trousers1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 403,
+          "width" : 692
+        },
+        "on" : "http://01d298c1-8ea0-4b0d-9a8c-723fbe759a4a"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
